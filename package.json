@@ -1,0 +1,19 @@
+{
+  "name": "testcafe-demo",
+  "version": "1.0.0",
+  "description": "testcafe tests example",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcafe safari dynamically-loaded-element.js"
+  },
+  "keywords": [
+    "testcafe"
+  ],
+  "author": "Sasha Antonenko <antonenko.qa@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "install": "^0.13.0",
+    "testcafe": "^1.12.0"
+  },
+  "devDependencies": {}
+}
