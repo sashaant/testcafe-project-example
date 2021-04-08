@@ -1,5 +1,5 @@
 # testcafe-example project
-This is demonstration project using TestCafe + TS
+This is demonstration project using TestCafe 
 
 ## Setup:
 * Install [Node](http://nodejs.org) (v6.x.x or later)
